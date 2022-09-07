@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mayhunt
+# 👋 Hi, I’m Mayhunt
 - 👀 I’m interested in Math / Technology / Machine Learning
 - 🌱 I’m currently learning Visualize with PowerBI and Tableau
 - 💞️ I’m looking to collaborate on Data Science Project / Data Analytics Project
