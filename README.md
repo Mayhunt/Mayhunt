@@ -10,7 +10,7 @@
 * :red_circle: *__Sentiment Analysis with MLP, LSTM and BERT__* </br>
   link : https://github.com/Mayhunt/Sentiment-Analysis-with-MLP-LSTM-BERT
   
-* :red_circle: *__Classification__* </br>
+* :red_circle: *__Cat VS Dog Image Classification__* </br>
   link : https://github.com/Mayhunt/Cat-VS-Dog-Image-Classification
 
 <!---
