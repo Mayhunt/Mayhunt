@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mayhunt
 
-![image](https://user-images.githubusercontent.com/99718534/189475590-b9151328-35c3-45d7-a5c8-f79385d09abb.png)
+![download1](https://user-images.githubusercontent.com/99718534/189475653-8964c4d2-668c-4c9f-b3e7-536bebd6f65a.png)
 
 - 👀 I’m interested in Math / Technology / Machine Learning
 - 🌱 I’m currently learning Visualize with PowerBI and Tableau
