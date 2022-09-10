@@ -1,4 +1,7 @@
 # 👋 Hi, I’m Mayhunt
+
+![image](https://user-images.githubusercontent.com/99718534/189475590-b9151328-35c3-45d7-a5c8-f79385d09abb.png)
+
 - 👀 I’m interested in Math / Technology / Machine Learning
 - 🌱 I’m currently learning Visualize with PowerBI and Tableau
 - 💞️ I’m looking to collaborate on Data Science Project / Data Analytics Project
